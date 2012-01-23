@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/74/trunk/android/src/animal/droid/opengl
+END
+MyRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/83/trunk/android/src/animal/droid/opengl/MyRenderer.java
+END
+GraphicUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/74/trunk/android/src/animal/droid/opengl/GraphicUtils.java
+END
+Global.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/74/trunk/android/src/animal/droid/opengl/Global.java
+END
+TextureManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/74/trunk/android/src/animal/droid/opengl/TextureManager.java
+END
+MyGLSurfaceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/83/trunk/android/src/animal/droid/opengl/MyGLSurfaceView.java
+END
